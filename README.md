@@ -47,7 +47,9 @@ También se tiene que modificar el host en esta ruta y añadir la ip y el nombre
 C:\Windows\System32\drivers\etc\hosts
 
 ## 3. Instalación de Eclipse
-Se ha instalado Eclipse como editor de texto. Se ha instalado en un directorio creado en la carpeta Xampp.
+Se ha instalado Eclipse como editor de texto. Se ha instalado en un directorio creado en la carpeta Xampp. Es importante que definamos perfectamente la ruta. En este caso no lo instalaremos en un directorio dentro de Xampp.
+____
+![instal eclipse](https://user-images.githubusercontent.com/52077693/61221811-8cd06780-a719-11e9-91c0-7fd22dfe5924.PNG)
 
 ## 4. Definición del Workspace
 El workspace se ha definico en la carpeta indicada dentro de proyectos.
