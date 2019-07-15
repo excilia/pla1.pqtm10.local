@@ -48,10 +48,10 @@ El workspace se ha definico en la carpeta indicada dentro de proyectos.
 El proyecto consiste en la creación de los directorios y las instrucciones necesarias para habilitar el espacio de trabajo.
 
 ## 6. Definición del repositorio local
-Se ha diseñado un repositorio local en la carpeta Xampp
+Se ha diseñado un repositorio local en la carpeta Xampp con objeto de tener una copia en el proyecto local además de en la nube.
 
 ## 7. Creación del repositorio local
 Se ha creado un repositorio local en la carpeta Xampp
 
 ## 8. Exportación de la branca master
-La branca master puede ser guardada y actualida. También se puede descargar y ser abierto por cualquier persona que quiera acceder al proyecto generado.
+La branca master puede ser guardada y actualizada. También se puede descargar y ser abierto por cualquier persona que quiera acceder al proyecto generado.
