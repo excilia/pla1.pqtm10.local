@@ -13,7 +13,7 @@
 8. Exportación de la branca master
 ---
 ## 1. Instalación Xampp
-Para la instalación de un servidor local se ha utilizado Xampp. El programa hace que se aplique el protocolo http a todos los documentos generados en el editor.
+Para la instalación de un servidor local se ha utilizado Xampp. El programa hace que se aplique el protocolo http a todos los documentos generados en el editor. https://github.com/excilia/pla1.pqtm10.local/commit/35fa8b0d2db7e7475ce9ed87895fc58e52d2664b#diff-364cd84a33221f56a55f6cd358870b99
 ## 2. Configuración Virtual Host
 
 ## 3. Instalación de Eclipse
