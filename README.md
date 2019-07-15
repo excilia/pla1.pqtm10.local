@@ -52,7 +52,7 @@ ____
 ![instal eclipse](https://user-images.githubusercontent.com/52077693/61221811-8cd06780-a719-11e9-91c0-7fd22dfe5924.PNG)
 
 ## 4. Definición del Workspace
-El workspace se ha definico en la carpeta indicada dentro de proyectos.
+El workspace se ha definico en la carpeta indicada dentro de proyectos. Es importante que cuando hagamos click en laung seleccionemos correctamente la ruta dentro de Xampp.
 
 ## 5. Definición del proyecto
 El proyecto consiste en la creación de los directorios y las instrucciones necesarias para habilitar el espacio de trabajo.
