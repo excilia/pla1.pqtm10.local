@@ -14,6 +14,10 @@
 ---
 ## 1. Instalación Xampp
 Para la instalación de un servidor local se ha utilizado Xampp. El programa hace que se aplique el protocolo http a todos los documentos generados en el editor. https://github.com/excilia/pla1.pqtm10.local/commit/35fa8b0d2db7e7475ce9ed87895fc58e52d2664b#diff-364cd84a33221f56a55f6cd358870b99
+
+Es importante que al inicar Xampp abramos correctamente apache, ya que es el programa que necesitaremos para que se realice correctamente el protocolo http
+![12_Install_Xampp](https://user-images.githubusercontent.com/52077693/61221354-a6bd7a80-a718-11e9-95d9-9cc09420f065.PNG)
+
 ## 2. Configuración Virtual Host
 Se ha realizado la directiva Virtual Host consistente en modificar el archivo de apache httpd y el host de windows con objeto de indicar al servidor las ip y las dns de los directorios creados. Este es el texto que se tiene que poner en el fichero en la ruta C:\xampp\apache\conf\extra\httpd_vhosts.
 
